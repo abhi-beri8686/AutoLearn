@@ -1,0 +1,20 @@
+venv/
+.venv/
+.tools/
+__pycache__/
+*.pyc
+.env
+frontend/node_modules/
+frontend/build/
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Large datasets
+data/raw/
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.parquet

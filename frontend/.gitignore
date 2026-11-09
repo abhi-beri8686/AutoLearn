@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build files
+frontend/build/
+frontend/dist/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Logs
+*.log
